@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\bianl\Downloads\Templates - S4.2 Exercici 3 (VOLUNTARI PUJAR NOTA CLASSE)\main.cpp(65,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\bianl\Downloads\Templates - S4.2 Exercici 3 (VOLUNTARI PUJAR NOTA CLASSE)\main.cpp(74,17): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\bianl\Downloads\Templates - S4.2 Exercici 3 (VOLUNTARI PUJAR NOTA CLASSE)\main.cpp(85,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\bianl\Downloads\Templates - S4.2 Exercici 3 (VOLUNTARI PUJAR NOTA CLASSE)\main.cpp(94,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\bianl\Downloads\Templates - S4.2 Exercici 3 (VOLUNTARI PUJAR NOTA CLASSE)\main.cpp(103,15): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\bianl\Downloads\Templates - S4.2 Exercici 3 (VOLUNTARI PUJAR NOTA CLASSE)\main.cpp(112,15): warning C4305: '+=': truncation from 'double' to 'float'
+  templateS4exVoluntari.vcxproj -> C:\Users\bianl\source\repos\templateS4exVoluntari\x64\Debug\templateS4exVoluntari.exe
