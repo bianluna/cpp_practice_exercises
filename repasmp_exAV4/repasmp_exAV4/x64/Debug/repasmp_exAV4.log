@@ -1,0 +1,3 @@
+﻿  Exercici.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  repasmp_exAV4.vcxproj -> C:\Users\bianc\Documents\uni\2526\lp\repasmp_exAV4\x64\Debug\repasmp_exAV4.exe

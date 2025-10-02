@@ -23,7 +23,7 @@ public:
 	int getNColumnes() const { return m_nColumnes; }
 	float getValor(int fila, int columna) const;
 private:
-	int m_nColumnes;
 	int m_nFiles;
-	float** m_matriu;
+	int m_nColumnes;
+
 };

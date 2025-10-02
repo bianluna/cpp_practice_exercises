@@ -615,8 +615,6 @@ float testOperadorAssignacio()
 	return reduccio;
 }
 
-
-
 float testConstructorCopia()
 {
 	float reduccio = 0;
@@ -706,7 +704,6 @@ int main()
 		grade = 0.0;
 	cout << endl << "Grade :=>> " << grade << endl << endl;
 
-	
 	reduccio = testOperadorAssignacio();
 	if (reduccio > 4.0)
 		reduccio = 4.0;
@@ -714,7 +711,6 @@ int main()
 	if (grade < 0)
 		grade = 0.0;
 	cout << endl << "Grade :=>> " << grade << endl << endl;
-
 
 	reduccio = testConstructorCopia();
 	if (reduccio > 4.0)
@@ -734,3 +730,4 @@ int main()
 
 	return 0;
 }
+

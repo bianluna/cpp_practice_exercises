@@ -1,0 +1,9 @@
+﻿  Hora.cpp
+  main.cpp
+  Generando código...
+C:\Users\bianc\Downloads\RepasMP AV - Exercici 2\main.cpp(234,33): warning C4805: '==': combinación no segura del tipo 'bool' y el tipo 'int' en la operación
+C:\Users\bianc\Downloads\RepasMP AV - Exercici 2\main.cpp(257,16): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\bianc\Downloads\RepasMP AV - Exercici 2\main.cpp(265,16): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\bianc\Downloads\RepasMP AV - Exercici 2\main.cpp(273,16): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\bianc\Downloads\RepasMP AV - Exercici 2\main.cpp(281,16): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+  repasmp_ex2AV.vcxproj -> C:\Users\bianc\Documents\uni\2526\lp\repasmp_ex2AV\x64\Debug\repasmp_ex2AV.exe

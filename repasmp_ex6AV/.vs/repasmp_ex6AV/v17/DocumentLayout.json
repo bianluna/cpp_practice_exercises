@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bianc\\Documents\\uni\\2526\\lp\\repasmp_ex6AV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15C259DB-23A3-47C3-97E8-1165CAAE8EE2}|repasmp_ex6AV\\repasmp_ex6AV.vcxproj|C:\\Users\\bianc\\Documents\\uni\\2526\\lp\\repasmp_ex6AV\\repasmp_ex6AV\\Matriu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15C259DB-23A3-47C3-97E8-1165CAAE8EE2}|repasmp_ex6AV\\repasmp_ex6AV.vcxproj|solutionrelative:repasmp_ex6AV\\Matriu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C259DB-23A3-47C3-97E8-1165CAAE8EE2}|repasmp_ex6AV\\repasmp_ex6AV.vcxproj|C:\\Users\\bianc\\Documents\\uni\\2526\\lp\\repasmp_ex6AV\\repasmp_ex6AV\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15C259DB-23A3-47C3-97E8-1165CAAE8EE2}|repasmp_ex6AV\\repasmp_ex6AV.vcxproj|solutionrelative:repasmp_ex6AV\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15C259DB-23A3-47C3-97E8-1165CAAE8EE2}|repasmp_ex6AV\\repasmp_ex6AV.vcxproj|C:\\Users\\bianc\\Documents\\uni\\2526\\lp\\repasmp_ex6AV\\repasmp_ex6AV\\Matriu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15C259DB-23A3-47C3-97E8-1165CAAE8EE2}|repasmp_ex6AV\\repasmp_ex6AV.vcxproj|solutionrelative:repasmp_ex6AV\\Matriu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matriu.h",
+              "DocumentMoniker": "C:\\Users\\bianc\\Documents\\uni\\2526\\lp\\repasmp_ex6AV\\repasmp_ex6AV\\Matriu.h",
+              "RelativeDocumentMoniker": "repasmp_ex6AV\\Matriu.h",
+              "ToolTip": "C:\\Users\\bianc\\Documents\\uni\\2526\\lp\\repasmp_ex6AV\\repasmp_ex6AV\\Matriu.h",
+              "RelativeToolTip": "repasmp_ex6AV\\Matriu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-18T13:56:34.318Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\bianc\\Documents\\uni\\2526\\lp\\repasmp_ex6AV\\repasmp_ex6AV\\main.cpp",
+              "RelativeDocumentMoniker": "repasmp_ex6AV\\main.cpp",
+              "ToolTip": "C:\\Users\\bianc\\Documents\\uni\\2526\\lp\\repasmp_ex6AV\\repasmp_ex6AV\\main.cpp",
+              "RelativeToolTip": "repasmp_ex6AV\\main.cpp",
+              "ViewState": "AgIAALwCAAAAAAAAAAAAAM4CAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T13:57:20.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matriu.cpp",
+              "DocumentMoniker": "C:\\Users\\bianc\\Documents\\uni\\2526\\lp\\repasmp_ex6AV\\repasmp_ex6AV\\Matriu.cpp",
+              "RelativeDocumentMoniker": "repasmp_ex6AV\\Matriu.cpp",
+              "ToolTip": "C:\\Users\\bianc\\Documents\\uni\\2526\\lp\\repasmp_ex6AV\\repasmp_ex6AV\\Matriu.cpp",
+              "RelativeToolTip": "repasmp_ex6AV\\Matriu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-18T13:56:58.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
